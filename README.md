@@ -1,6 +1,6 @@
 # Paylocity QA Assessment
 Bug-Finding challenge
-Find as many bugs/defects/flaws as you can in the UI and the API and create a report.
+- Find as many bugs/defects/flaws as you can in the UI and the API and create a report.
 
 Assumptions:
   1. All employees are paid $2000 per paycheck before deductions
