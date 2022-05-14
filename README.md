@@ -1,5 +1,4 @@
-# Project Title
-Paylocity QA Assessment
+# Paylocity QA Assessment
 Bug-Finding challenge
 Find as many bugs/defects/flaws as you can in the UI and the API and create a report.
 
