@@ -11,5 +11,5 @@ This project is run on https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Pr
 4. Each dependent incurs a cost of $500/year
 
 ## Environment Details
-Browser: Chrome 
-OS: Windows 11
+- Browser: Chrome version  101.0.4951.54
+- OS: Windows 11
